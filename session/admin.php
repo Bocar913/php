@@ -11,3 +11,6 @@ if (isset($_SESSION['login'])) {
 } else {
     header("Location: formulaire.php?error=2");
 }
+
+//fonction qui va lire et confirmer le login identique
+
