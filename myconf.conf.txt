@@ -1,0 +1,7 @@
+Alias /tpweb U:\INF2\dev_web\tpweb
+
+<Directory U:\INF2\dev_web\tpweb>
+
+Require all granted
+Options Indexes
+</Directory>
