@@ -7,6 +7,6 @@ if (isset($_COOKIE["page"])){
 }
 
 echo "<h1>vous êtes sur la page 0</h1>";
-echo"<p><a href='page1.php'>vers la page  1</a></p>";
-echo"<p><a href='page2.php'>vers la page  2</a></p>";
+echo "<p><a href='page1.php'>vers la page  1</a></p>";
+echo "<p><a href='page2.php'>vers la page  2</a></p>";
 
